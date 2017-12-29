@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/dashboard-module",
+  "name": "denisgold/dashboard-module",
   "type": "asgard-module",
-  "description": "Dashboard module for AsgardCMS. Handles the display of the dashboard.",
+  "description": "Dashboard module for AsgardCMS. Handles the display of the dashboard by Denis Stoliarchuk.",
   "keywords": [
     "asgardcms",
     "dashboard"
@@ -9,16 +9,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
-  "support": {
-    "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Dashboard/issues",
-    "source": "https://github.com/AsgardCms/Dashboard"
-  },
   "require": {
     "php": ">=5.6.4",
     "composer/installers": "~1.0"
